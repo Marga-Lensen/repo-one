@@ -2,5 +2,5 @@
 
 git clone 
 git add .
-git commit -m
+git commit -m (first commit)
 git push
